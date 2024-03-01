@@ -147,6 +147,16 @@ section {
     font-size: 1.2rem;
 }
 
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
 /* Products */
 
 
@@ -164,6 +174,8 @@ section {
     text-align: center;
     border: 1px solid #ddd;
 }
+
+
 
 
 
